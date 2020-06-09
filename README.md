@@ -1,2 +1,1 @@
-# KNN-alg
-knn using iris
+## knn algorithm from scartch on iris data set
