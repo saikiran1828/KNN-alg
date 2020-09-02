@@ -8,4 +8,4 @@ ALGORITHM:
 * 3.2 − Based on the distance value, sort them in ascending order.
 * 3.3 − Next, it will choose the top K rows from the sorted array.
 * 3.4 – Compute the average of sum of the preceding rows and calculate the percentage error. The predicted value corresponds to the value with the least percentage error.
-Step 4 − End
+* Step 4 − End
